@@ -1,1 +1,3 @@
-# popvision_graph_analyser
+# PopVision Graph Analyser
+
+This is a repository for releases for the Graphcore PopVision Graph Analyser
